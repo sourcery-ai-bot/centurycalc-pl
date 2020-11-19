@@ -1,6 +1,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
+        <title>Century Calc | CheryX</title>
         <meta name="description" content="Century Calculator v1.1">
         <meta name="keywords" content="HTML, CSS, JavaScript">
         <meta name="author" content="CheryX">
