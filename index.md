@@ -1,12 +1,8 @@
-# Century Calc
+# Century Calculator
+Century Calculator is a simple program that helps you with calculating century, half of century or millenium
 
-You can use the [editor on GitHub](https://github.com/CheryX/centurycalc-pl/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How to download it?
+If you rather to download old, English version, you can use [Old verison](https://github.com/CheryX/centurycalc), but if you want to get newer verison, you can use [Current Version](https://github.com/CheryX/centurycalc-pl/releases/tag/v1.1)
 
 ```markdown
 Syntax highlighted code block
