@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>HTML Elements Reference</title>
         <meta name="description" content="Century Calculator v1.1">
         <meta name="author" content="CheryX">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
